@@ -2,7 +2,7 @@
 
 This program uses Youtube API V3. Basically you can access any video from youtube using this app. 
 
-<b>INTRUCTIONS:</b>
+<h2><b>INTRUCTIONS:</b></h2>
 
 - Type the name of your video in the search box and click on search button
 
