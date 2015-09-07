@@ -1,8 +1,8 @@
 # YouTube_Search_API
 
-This program uses Youtube API V3. Basically you can access any video from youtube using this app. 
+This program uses Youtube API V3 and Jquery to request videos. Basically you can access any video from youtube using this app. 
 
-<h3><b>INTRUCTIONS:</b></h3>
+<h3><b><u>INTRUCTIONS:</u></b></h3>
 
 - Type the name of your video in the search box and click on search button
 
