@@ -8,4 +8,4 @@ This program uses Youtube API V3 and Jquery to request videos. Basically you can
 
 - You can either watch a video by clicking on the title or thumbnail of the video.
 
-Live demo could be found at: http://henrygranados.github.io/youtube_search_api.html
+
